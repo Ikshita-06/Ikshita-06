@@ -1,10 +1,10 @@
 <div align="center">
 
-# Building intelligent applications where AI meets thoughtful user experiences.
-
-### Ikshita Sharma
+# Ikshita Sharma
 
 Computer Science Undergraduate • Artificial Intelligence • Machine Learning • Full Stack Development
+
+### Building intelligent applications where AI meets thoughtful user experiences.
 
 </div>
 
@@ -58,42 +58,57 @@ I believe the best way to learn is by building. Every project teaches me somethi
 
 ## Featured Projects
 
-### 🧠 Skin Cancer Detection System
+## Selected Projects
 
-Deep learning application that classifies seven different skin lesions using a Convolutional Neural Network trained on the HAM10000 dataset with a React interface for image prediction.
+### 🧠 [Skin Cancer Detection System](https://github.com/Ikshita-06/skin-cancer-detection)
 
----
-
-### 💬 Medical AI Chatbot
-
-Retrieval-Augmented Generation (RAG) chatbot designed to answer medical questions using trusted medical documentation and semantic search.
+CNN-based classifier trained on the HAM10000 dataset with a React interface for image prediction.
 
 ---
 
-### ✨ Little Wins 
+### 💬 [Medical AI Chatbot](https://github.com/Ikshita-06/Medical-AI-Chatbot)
 
-A wellness platform featuring workout planning, nutrition tracking, calorie management, and personalized dashboards.
-
----
-
-### 🎧 DeepFake Audio Forensics
-
-Deep learning application capable of distinguishing authentic and manipulated audio recordings.
+Retrieval-Augmented Generation chatbot using LangChain and Milvus to answer questions from trusted medical documents.
 
 ---
 
-### 📱 Streakly
+### ✨ [Little Wins](https://github.com/Ikshita-06/Little-Wins)
 
-Cross-platform habit tracking application built using Flutter and Supabase with cloud synchronization.
+A wellness platform focused on workouts, nutrition tracking, personalized dashboards, and sustainable healthy habits.
 
 ---
 
-<div align="center">
+### 🎧 [DeepFake Audio Forensics](https://github.com/Ikshita-06/DeepFake-Audio-Forensics)
 
-### Let's Connect
+Deep learning model designed to distinguish authentic and AI-generated audio recordings.
 
-<a href="https://www.linkedin.com/in/ikshita-sharma-2019a8346/">LinkedIn</a>
-&nbsp; • &nbsp;
-<a href="mailto:ikshita.shrma@gmail.com">Email</a>
+---
 
-</div>
+### 📱 [Streakly](https://github.com/Ikshita-06/Streakly)
+
+Cross-platform habit tracking application built with Flutter and Supabase.
+
+---
+
+---
+
+<h2 align="center">✦ Thanks for visiting.</h2>
+
+<p>
+I appreciate you taking the time to explore my work.
+</p>
+
+<p>
+If something caught your attention or you'd simply like to connect,
+I'd love to hear from you.
+</p>
+
+<p>
+
+<a href="https://www.linkedin.com/in/ikshita-sharma-2019a8346/">💼 LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:YOUR_EMAIL">✉️ Gmail</a>
+<!--&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://yourportfolio.com">🌐 Portfolio</a> -->
+
+</p>
